@@ -1,1 +1,1 @@
-# DL_lab
+# Deep Learning Lab
